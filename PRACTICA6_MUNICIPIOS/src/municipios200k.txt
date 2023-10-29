@@ -1,0 +1,87 @@
+65	Santiago de Compostela	98179	La Coruña	 Galicia
+66	Lugo	97211	 Lugo	 Galicia
+67	Lorca	97151	 Región de Murcia	Región de Murcia
+68	Rivas-Vaciamadrid	96690	 Comunidad de Madrid	Comunidad de Madrid
+69	Las Rozas de Madrid	95725	 Comunidad de Madrid	Comunidad de Madrid
+70	San Cugat del Vallés	95725	 Barcelona	 Cataluña
+71	Cáceres	95456	 Cáceres	 Extremadura
+72	San Fernando	94120	 Cádiz	 Andalucía
+73	San Sebastián de los Reyes	91083	 Comunidad de Madrid	Comunidad de Madrid
+74	Mijas	89502	 Málaga	 Andalucía
+75	El Puerto de Santa María	89435	 Cádiz	 Andalucía
+76	Cornellá de Llobregat	89039	 Barcelona	 Cataluña
+77	Pozuelo de Alarcón	87728	 Comunidad de Madrid	Comunidad de Madrid
+78	El Ejido	87500	 Almería	 Andalucía
+79	Chiclana de la Frontera	87493	 Cádiz	 Andalucía
+80	Guadalajara	87452	 Guadalajara	 Castilla-La Mancha
+81	Melilla	85170	 Melilla	Melilla
+82	Torrente	85142	Valencia	 Comunidad Valenciana
+83	Toledo	85085	 Toledo	 Castilla-La Mancha
+84	Vélez-Málaga	83899	 Málaga	 Andalucía
+85	Torrevieja	83547	Alicante	 Comunidad Valenciana
+86	San Baudilio de Llobregat	83371	 Barcelona	 Cataluña
+87	Talavera de la Reina	83247	 Toledo	 Castilla-La Mancha
+88	Fuengirola	83226	 Málaga	 Andalucía
+89	Ceuta	83117	 Ceuta	Ceuta
+90	Arona	82982	Santa Cruz de Tenerife	 Canarias
+91	Pontevedra	82828	 Pontevedra	 Galicia
+92	Orihuela	80784	Alicante	 Comunidad Valenciana
+93	Coslada	80596	 Comunidad de Madrid	Comunidad de Madrid
+94	Valdemoro	79100	 Comunidad de Madrid	Comunidad de Madrid
+95	Rubí	79007	 Barcelona	 Cataluña
+96	Manresa	77459	 Barcelona	 Cataluña
+97	Guecho	76365	 Vizcaya	 País Vasco
+98	Palencia	76302	 Palencia	 Castilla y León
+99	Alcalá de Guadaíra	75917	 Sevilla	 Andalucía
+100	Gandía	75911	Valencia	 Comunidad Valenciana
+101	Avilés	75877	 Principado de Asturias	Principado de Asturias
+102	Ciudad Real	74850	 Ciudad Real	 Castilla-La Mancha
+103	Molina de Segura	74762	 Región de Murcia	Región de Murcia
+104	Santa Lucía de Tirajana	74560	Las Palmas	 Canarias
+105	Estepona	74493	 Málaga	 Andalucía
+106	Benalmádena	73160	 Málaga	 Andalucía
+107	Majadahonda	72179	 Comunidad de Madrid	Comunidad de Madrid
+108	Paterna	71880	Valencia	 Comunidad Valenciana
+109	Benidorm	69738	Alicante	 Comunidad Valenciana
+110	Sanlúcar de Barrameda	69727	 Cádiz	 Andalucía
+111	Torremolinos	68819	 Málaga	 Andalucía
+112	Villanueva y Geltrú	68152	 Barcelona	 Cataluña
+113	Sagunto	68066	Valencia	 Comunidad Valenciana
+114	Castelldefels	67307	 Barcelona	 Cataluña
+115	Viladecans	66720	 Barcelona	 Cataluña
+116	El Prat de Llobregat	65030	 Barcelona	 Cataluña
+117	Collado Villalba	64263	 Comunidad de Madrid	Comunidad de Madrid
+118	Ferrol	64158	La Coruña	 Galicia
+119	Arrecife	63750	Las Palmas	 Canarias
+120	La Línea de la Concepción	63271	 Cádiz	 Andalucía
+121	Ponferrada	63052	 León	 Castilla y León
+122	Irún	62635	 Guipúzcoa	 País Vasco
+123	Boadilla del Monte	62627	 Comunidad de Madrid	Comunidad de Madrid
+124	Granollers	62475	 Barcelona	 Cataluña
+125	Aranjuez	59762	 Comunidad de Madrid	Comunidad de Madrid
+126	Zamora	59475	Zamora	 Castilla y León
+127	Mérida	59324	 Badajoz	 Extremadura
+128	San Vicente del Raspeig	59138	Alicante	 Comunidad Valenciana
+129	Alcoy	58960	Alicante	 Comunidad Valenciana
+130	Motril	58798	 Granada	 Andalucía
+131	Ávila	57730	 Ávila	 Castilla y León
+132	Arganda del Rey	57553	 Comunidad de Madrid	Comunidad de Madrid
+133	Sardañola del Vallés	57291	 Barcelona	 Cataluña
+134	Linares	55729	 Jaén	 Andalucía
+135	Pinto	54088	 Comunidad de Madrid	Comunidad de Madrid
+136	Cuenca	53389	 Cuenca	 Castilla-La Mancha
+136	Colmenar Viejo	53389	 Comunidad de Madrid	Comunidad de Madrid
+138	Huesca	53305	 Huesca	 Aragón
+139	San Bartolomé de Tirajana	52936	Las Palmas	 Canarias
+140	Calviá	52458	 Islas Baleares	Islas Baleares
+141	Granadilla de Abona	52447	Santa Cruz de Tenerife	 Canarias
+142	Elda	52297	Alicante	 Comunidad Valenciana
+143	Siero	51792	 Principado de Asturias	Principado de Asturias
+144	Utrera	51402	 Sevilla	 Andalucía
+145	Villarreal	51369	Castellón	 Comunidad Valenciana
+146	Mollet del Vallés	51294	 Barcelona	 Cataluña
+147	Torrelavega	51142	 Cantabria	Cantabria
+148	Segovia	50802	 Segovia	 Castilla y León
+149	Ibiza	50715	 Islas Baleares	Islas Baleares
+150	Rincón de la Victoria	50569	 Málaga	 Andalucía
+151	Tres Cantos	50187	 Comunidad de Madrid	Comunidad de Madrid
